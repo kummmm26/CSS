@@ -1,0 +1,10 @@
+.outerDiv{
+    border: 2px solid black;
+    padding: 40px;
+    width: 500px;
+    height: 100px;
+}
+.innerDiv{
+    margin: 20px;
+    background-color: yellow;
+}

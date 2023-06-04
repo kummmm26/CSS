@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    background-color: lightgreen;
+    width: 400px;
+    height: 150px;
+    margin-top: 12px;
+    margin-left: 12px;
+    display: flex;
+
+}
+
+.text {
+    text-align: center;
+    margin: auto;
+    color: white;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    font-size: 27px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.fifa {
+    margin-left: 12px;
+    margin-top: 23px;
+
+}
+
+.fifa_link {
+    text-decoration: none;
+    color: black;
+    padding: 3px;
+}
+
+.ref {
+    margin-left: 12px;
+    margin-top: 23px;
+}
+.marginL{
+    margin-left: 44px;
+    margin-top: 12px;
+}

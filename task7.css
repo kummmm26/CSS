@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.page{
+    display: flex;
+    width: auto;
+    margin: auto;
+
+}
+.navbar{
+    width: 200px;
+    height: 600px;
+}
+.navbar div{
+    width: 100px;
+    height: 50px;
+    border-bottom-right-radius: 3px;
+    border-top-right-radius: 3px;
+    margin-top:22px;
+
+}
+.green{
+    background-color: green;
+
+}
+.red{
+    background-color: red;
+
+}
+.blue{
+    background-color: slateblue;
+}
+.grey{
+    background-color: grey;
+}
+
+.content{
+    margin-top: 22px;
+}
+.green:hover{
+    width: 150px;
+}
+.red:hover{
+    width: 150px;
+}
+.blue:hover{
+    width: 150px;
+}
+.grey:hover{
+    width: 150px;
+}

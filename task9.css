@@ -1,0 +1,17 @@
+.box{
+    border: 3px solid black;
+    width: 340px;
+    height: 150px;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    text-align: cen;
+}
+
+.box_para{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin: 40px;
+    background-color: yellow;
+}

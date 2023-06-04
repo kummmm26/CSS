@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: rgb(245, 245, 92);
+    width: 700px;
+    height: 700px;
+    margin: auto;
+    margin-top: 42px;
+}
+
+.wrapper {
+    margin-top: 12px;
+    display: flex;
+    margin: auto;
+    width: 400px;
+
+}
+.navbar{
+    margin-top: 23px;
+}
+
+.nav {
+    width: 110px;
+    height: 30px;
+    margin-top: 12px;
+    margin-right: 82px;
+    background-color: white;
+    margin-left: -81px;
+    border-right: 25px solid black;
+    padding: 4px;
+}
+
+.content{
+    margin-top: 23px;
+    color: purple;
+}

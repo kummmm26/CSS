@@ -1,0 +1,22 @@
+.navigation{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+.navItem{
+    width: 125px;
+    height: 30px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 4px;
+    background-color: skyblue;
+}
+nav a:hover{
+    background-color: orange;
+}
+.navigation a{
+    text-decoration: none;
+}

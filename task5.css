@@ -1,0 +1,38 @@
+nav li{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    
+}
+nav li a{
+    text-decoration: none;
+    
+}
+.navbar:hover{
+    color: white;
+    background-color: grey;
+    
+}
+nav{
+    
+    background-color: rgb(172, 172, 172);
+    width: 400px;
+    height: 70px;
+    border: 1px solid black;
+    display: flex;
+    margin: auto;
+    
+}
+.navbar{
+    
+    width: 5s5px;
+    height: 20px;
+    margin: 15px;
+    padding: 10px;
+    font-size: 23px;
+}
+.border{
+    border-right: 1px solid black;
+}

@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.list{
+    list-style-image: url("liststyle.png");
+}
+.text{
+    font-size: 34px;
+    padding: 12px;
+    margin-left: 12px;
+    text-align: center;
+}
+.t2{
+        margin-left: -65px;
+        };
+.t3{
+    margin-left: 3px;
+}
